@@ -13496,7 +13496,7 @@ ETC_20150717_013496	Challenger
 ETC_20150717_013497	Champion
 ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150717_013499	Card Battle Tip
-ETC_20150717_013500	in chat menu
+ETC_20150717_013500	In chat menu
 ETC_20150717_013501	You can start Card Battle with the other player.
 ETC_20150717_013502	/Party Invitation
 ETC_20150717_013503	/Add Friends
@@ -13524,9 +13524,9 @@ ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy 
 ETC_20150717_013525	You will move to another channel due to full.
 ETC_20150717_013526	If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
 ETC_20150717_013527	If the enhancement of weapons above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150717_013528	Will be entered automatically after 5 secs
+ETC_20150717_013528	Will be entered automatically after 5 seconds.
 ETC_20150717_013529	When you go out of the dungeon, you will fail Awaken. Are you going to really go out?
-ETC_20150717_013530	You've obtained Silvers
+ETC_20150717_013530	You've obtained Silver.
 ETC_20150717_013531	You do not have the class required to use this companion.
 ETC_20150717_013532	You do not have the attributes required to use this companion.
 ETC_20150717_013533	{ThemeName} ({Count}Name)
@@ -13546,36 +13546,36 @@ ETC_20150717_013546	You can't get near due to the malfunctioning of the terminal
 ETC_20150717_013547	It is not the monster with the detonator!
 ETC_20150717_013548	Petrified Frosts have come! Avoid them fast!
 ETC_20150717_013549	The lamp is shining bright{nl}
-ETC_20150717_013550	It will last for secs
+ETC_20150717_013550	It will last for seconds
 ETC_20150717_013551	You don't have enough old oil pockets
 ETC_20150717_013552	Magical Purification device is already activated
 ETC_20150717_013553	Released the Seal of Guidance and summoned Guardian!
 ETC_20150717_013554	Released the Seal of Protection and Terra Nymph are charging in!
 ETC_20150717_013555	Released the Seal of Blessing and the monsters in residence are weakening.
-ETC_20150717_013556	You've found the documents about magic generating stones
-ETC_20150717_013557	Resetting with Balyus' magic
-ETC_20150717_013558	You don't have enough crystal pieces
-ETC_20150717_013559	The poison in this spring is not enough
-ETC_20150717_013560	Let's take a rest for a while
-ETC_20150717_013561	An old book is there
+ETC_20150717_013556	You've found the documents about magic generating stones.
+ETC_20150717_013557	Resetting with Balyus' magic.
+ETC_20150717_013558	You don't have enough crystal pieces.
+ETC_20150717_013559	The poison in this spring is not enough.
+ETC_20150717_013560	Let's take a rest for a while.
+ETC_20150717_013561	An old book is there.
 ETC_20150717_013562	Explosive
-ETC_20150717_013563	Eliminating the Explosive
+ETC_20150717_013563	Eliminating the Explosive...
 ETC_20150717_013564	You've found an unexploded bomb!{nl}Talk with Sapper Master who knows a lot about explosives
 ETC_20150717_013565	You've found an unexploded bomb!{nl}Let's use the tool box that can be used to eliminate the unexploded bombs
 ETC_20150717_013566	You've eliminated the unexploded bomb!
-ETC_20150717_013567	Using the tool box
-ETC_20150717_013568	You've set the explosive
-ETC_20150717_013569	Could not protect Amanda
-ETC_20150717_013570	You've dedicated the item as an offering
-ETC_20150717_013571	The item is not in the inventory
-ETC_20150717_013572	You've received the blessing from the suspicious crystal
-ETC_20150717_013573	Put the shade of Big Grieva
-ETC_20150717_013574	Put the strain of Big Siaulamb
-ETC_20150717_013575	Put the mask of Siaulamb
-ETC_20150717_013576	Put the core of Zolem
-ETC_20150717_013577	Put the hook
+ETC_20150717_013567	Using the tool box.
+ETC_20150717_013568	You've set the explosive.
+ETC_20150717_013569	Could not protect Amanda.
+ETC_20150717_013570	You've dedicated the item as an offering.
+ETC_20150717_013571	The item is not in the inventory.
+ETC_20150717_013572	You've received the blessing from the suspicious crystal.
+ETC_20150717_013573	Put the shade of Big Grieva.
+ETC_20150717_013574	Put the strain of Big Siaulamb.
+ETC_20150717_013575	Put the mask of Siaulamb.
+ETC_20150717_013576	Put the core of Zolem.
+ETC_20150717_013577	Put the hook.
 ETC_20150717_013578	Put the core of grave Golems
-ETC_20150717_013579	Just go.
+ETC_20150717_013579	Just go!
 ETC_20150717_013580	Put the wing of Dandell
 ETC_20150717_013581	Put the shells Kepos
 ETC_20150717_013582	Put the stems of Ashulongs
@@ -13583,12 +13583,12 @@ ETC_20150717_013583	Put the shells of old Kepas
 ETC_20150717_013584	Put the leaves of Krumabos
 ETC_20150717_013585	Put the bells of Ellums
 ETC_20150717_013586	The monsters nearby are rushing in!
-ETC_20150717_013587	You've obtained the blessing from the suspicious tombstone
+ETC_20150717_013587	You've obtained the blessing from the suspicious tombstone.
 ETC_20150717_013588	Suspicious Crystal Pole
-ETC_20150717_013589	You've received the blessing from the suspicious stone pole
+ETC_20150717_013589	You've received the blessing from the suspicious crystal pole.
 ETC_20150717_013590	All equipment
-ETC_20150717_013591	This game is rated for 12 years or older
-ETC_20150717_013592	There is no empty slot
+ETC_20150717_013591	This game is rated for 12 years or older.
+ETC_20150717_013592	There is no empty slot.
 ETC_20150717_013593	When you are mounted on a companion, card duels are not possible.
 ETC_20150717_013594	Mouse Mode may not be feasible for Swordsman, Cleric type classes.
 ETC_20150717_013595	The rule of distributing items has been changed to {Change}.
@@ -13599,7 +13599,7 @@ ETC_20150717_013599	There is an instant shop registered {nl}Register instant sho
 ETC_20150717_013600	You have lit the bonefire!
 ETC_20150717_013601	It is already in fire!
 ETC_20150717_013602	[Tools Merchant]{nl}     Anna
-ETC_20150717_013603	[Tools Merchant]{nl}           Mirina
+ETC_20150717_013603	[Tools Merchant]{nl}     Mirina
 ETC_20150717_013604	Spell Control Magic Circle.
 ETC_20150717_013605	The guard that fell behind
 ETC_20150717_013606	The corpse of the Kingdom Military Guard
@@ -13610,5 +13610,5 @@ ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silvers obtained.
-ETC_20150717_013614	{@st59}Increase Max SP, SP recovery, Block penetration{/}
-ETC_20150717_013615	{@st59}Increase Magic ATK{/}
+ETC_20150717_013614	{@st59} Increase Max SP, SP recovery, Block penetration{/}
+ETC_20150717_013615	{@st59} Increase Magic ATK{/}
